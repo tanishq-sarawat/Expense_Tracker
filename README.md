@@ -1,4 +1,6 @@
 Expense Tracker API
+
+
 A secure and robust RESTful API for managing personal expenses, built with Spring Boot and secured using JWT. This backend service allows users to register, log in, and perform CRUD (Create, Read, Update, Delete) operations on their expenses, ensuring data privacy and integrity.
 
 ✨ Features
